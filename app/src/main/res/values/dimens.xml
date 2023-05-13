@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_padding_size_micro">@dimen/_4sdp</dimen>
+    <dimen name="margin_padding_size_small">@dimen/_8sdp</dimen>
+    <dimen name="margin_padding_size_medium">@dimen/_16sdp</dimen>
+    <dimen name="margin_padding_size_large">@dimen/_24sdp</dimen>
+    <dimen name="button_text_size">@dimen/_14ssp</dimen>
+    <dimen name="corner_radius">@dimen/_8sdp</dimen>
+    <dimen name="text_size_medium">@dimen/_16ssp</dimen>
+    <dimen name="text_size_semi_micro">@dimen/_10ssp</dimen>
+    <dimen name="imageCornerRadius">@dimen/_16sdp</dimen>
+    <dimen name="cardCornerRadius">@dimen/_16sdp</dimen>
+    <dimen name="cardElevation">@dimen/_3sdp</dimen>
+</resources>
